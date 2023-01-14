@@ -4,4 +4,4 @@
 
 Download Exe and look other versions : https://fazztech.net/download
 
-Current Version : GAI 1.3
+Current Version : GAI 1.5
