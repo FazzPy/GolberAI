@@ -15,7 +15,6 @@ from time import sleep
 import re
 import time
 from urllib import request
-from pymongo import MongoClient
 from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
 from pdfminer.converter import TextConverter
 from pdfminer.layout import LAParams
