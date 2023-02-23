@@ -2,7 +2,7 @@ beautifulsoup4==4.8.2
 colorama==0.4.6
 getmac==0.8.3
 google==3.0.0
-googlesearch-python==1.1.0
+googlesearch-python
 googletrans==3.0.0
 pdfkit==1.0.0
 pdfminer==20191125
@@ -12,4 +12,3 @@ PyPDF2==3.0.1
 requests==2.25.1
 tqdm==4.64.1
 urllib3==1.26.13
-googlesearch
